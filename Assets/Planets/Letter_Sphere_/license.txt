@@ -1,0 +1,11 @@
+Model Information:
+* title:	Letter Sphere 🔠
+* source:	https://sketchfab.com/3d-models/letter-sphere-07679c5e46e24589b07ac20e128d9839
+* author:	smice (https://sketchfab.com/smice)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Letter Sphere 🔠" (https://sketchfab.com/3d-models/letter-sphere-07679c5e46e24589b07ac20e128d9839) by smice (https://sketchfab.com/smice) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
